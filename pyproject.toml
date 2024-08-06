@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "learning-materials"
+version = "0.1.0"
+description = ""
+authors = ["David-Roklem <roklem@mail.ru>"]
+readme = "README.md"
+packages = [{include = "learning_materials"}]
+
+[tool.poetry.dependencies]
+python = "^3.11.5"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
