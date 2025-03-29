@@ -1,9 +1,7 @@
 [project]
-name = "learning-materials"
+name = "async-python"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12.7"
-dependencies = [
-    "requests>=2.32.3",
-]
+dependencies = []
